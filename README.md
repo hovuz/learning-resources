@@ -35,6 +35,7 @@
 
 #### Kitablar
 - [Artificial Intelligence: A Modern Approach (Third edition) by Stuart Russell and Peter Norvig](http://aima.cs.berkeley.edu/)
+- [Deep Learning (An MIT Press book) by Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/{:target="_blank"})
 
 #### Məqalələr
 - [How to Choose Your First AI Project (Andrew Ng)](https://hbr.org/2019/02/how-to-choose-your-first-ai-project)
