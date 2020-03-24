@@ -39,9 +39,9 @@
 - [Practical Deep Learning for Coders, v3 (fast.ai)](https://course.fast.ai/index.html)
 
 #### Kitablar
+- [Python Data Science Handbook (An MIT Press book) by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Artificial Intelligence: A Modern Approach (Third edition) by Stuart Russell and Peter Norvig](http://aima.cs.berkeley.edu/)
-- [Deep Learning (An MIT Press book) by Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/{:target="_blank"})
-- <a href="http://www.deeplearningbook.org/" target="_blank">Deep Learning (An MIT Press book) by Ian Goodfellow and Yoshua Bengio and Aaron Courville</a>
+- [Deep Learning (An MIT Press book) by Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
 
 #### Məqalələr
 - [How to Choose Your First AI Project (Andrew Ng)](https://hbr.org/2019/02/how-to-choose-your-first-ai-project)
