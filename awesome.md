@@ -27,9 +27,12 @@
 
 
 #### Videolar
-- [Data Talks 2019](https://youtu.be/wt7Mlow50qQ) - 16.06.19
+- [Datanın Biznesin Müxtəlif Funksiyalarında Tətbiqləri](https://www.facebook.com/datasocool/videos/1923925151073919/) - 11.04.20
 
 - [0-to-hero2 / SessionXX US](https://youtu.be/Yv78-P9x3dw) - 03.11.19
+
+- [Data Talks 2019](https://youtu.be/wt7Mlow50qQ) - 16.06.19
+
 
 
 #### Məqalələr
