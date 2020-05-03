@@ -31,6 +31,8 @@
 
 
 #### Videolar
+- [Sıfırdan sona Maşın Öyrənməsi layihəsi (Emil Mirzəyev)](https://youtu.be/iLQ1R20Hy0I) - 03.05.20
+
 - [Datanın Biznesin Müxtəlif Funksiyalarında Tətbiqləri - DataSoCool](https://www.facebook.com/datasocool/videos/1923925151073919/) - 11.04.20
 
 - [Süni İntellekt (Rüstəm Həşimov) - GOUP ](https://youtu.be/Yv78-P9x3dw) - 03.11.19
