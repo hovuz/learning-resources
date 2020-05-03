@@ -21,17 +21,21 @@
 
 ### Azərbaycanca mənbələr
 
+#### Kurslar
+- [Statistika - İnnab Peşəkar İnkişaf Platroması](http://innab.org/statitka/)
+- [Statistika - Mərkəzi Bankın Virtual Təhsil Platforması](https://edu.e-cbar.az/course/preview.php?id=49)
+
 
 #### Bloqlar
 [Data Experts](http://dataexperts.tech/)
 
 
 #### Videolar
-- [Datanın Biznesin Müxtəlif Funksiyalarında Tətbiqləri](https://www.facebook.com/datasocool/videos/1923925151073919/) - 11.04.20
+- [Datanın Biznesin Müxtəlif Funksiyalarında Tətbiqləri - DataSoCool](https://www.facebook.com/datasocool/videos/1923925151073919/) - 11.04.20
 
-- [0-to-hero2 / SessionXX US](https://youtu.be/Yv78-P9x3dw) - 03.11.19
+- [Süni İntellekt (Rüstəm Həşimov) - GOUP ](https://youtu.be/Yv78-P9x3dw) - 03.11.19
 
-- [Data Talks 2019](https://youtu.be/wt7Mlow50qQ) - 16.06.19
+- [Data Talks 2019 - QSS Analytics](https://youtu.be/wt7Mlow50qQ) - 16.06.19
 
 
 
