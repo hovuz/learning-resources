@@ -21,13 +21,17 @@
 
 ### Azərbaycanca mənbələr
 
+#### Kitablar
+- [Data Strukturları və Alqoritmlər - Şəhriyar Rzayev](https://azepug.gitbooks.io/data-strukturlari-v-alqoritml-r/content/)
+- [A-dan Z-yə Python proqramlaşdırma dili - Rəşad Qarayev](https://github.com/RashadGarayev/Python3-AZ)
+
 #### Kurslar
 - [Statistika - İnnab Peşəkar İnkişaf Platroması](http://innab.org/statitka/)
 - [Statistika - Mərkəzi Bankın Virtual Təhsil Platforması](https://edu.e-cbar.az/course/preview.php?id=49)
 
 
 #### Bloqlar
-[Data Experts](http://dataexperts.tech/)
+- [Data Experts - Turqut Abdullayev](http://dataexperts.tech/)
 
 
 #### Videolar
