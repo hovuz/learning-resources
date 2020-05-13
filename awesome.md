@@ -5,9 +5,11 @@
 ### İngiliscə mənbələr
 
 #### Kurslar
+- [AI for Everyone (deeplearning.ai)](https://www.deeplearning.ai/ai-for-everyone/)
 - [Practical Deep Learning for Coders, v3 (fast.ai)](https://course.fast.ai/index.html)
 
 #### Kitablar
+- [Machine Learning Yearning (deeplearning.ai) by Andrew Ng](https://www.deeplearning.ai/machine-learning-yearning/)
 - [Python Data Science Handbook (An MIT Press book) by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Artificial Intelligence: A Modern Approach (Third edition) by Stuart Russell and Peter Norvig](http://aima.cs.berkeley.edu/)
 - [Deep Learning (An MIT Press book) by Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
