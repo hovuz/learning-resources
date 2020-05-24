@@ -37,13 +37,17 @@
 
 
 #### Videolar
-- [Biznes analitikası və xarici şirkətdə işləmək (Yaşar Əhmədov)](https://youtu.be/b-h2PrdF8wc) - 27.04.20
-
 - [Sıfırdan sona Maşın Öyrənməsi layihəsi (Emil Mirzəyev)](https://youtu.be/iLQ1R20Hy0I) - 03.05.20
+
+- [Biznes analitikası və xarici şirkətdə işləmək (Yaşar Əhmədov)](https://youtu.be/b-h2PrdF8wc) - 27.04.20
 
 - [Datanın biznesin müxtəlif funksiyalarında tətbiqləri - DataSoCool](https://www.facebook.com/datasocool/videos/1923925151073919/) - 11.04.20
 
-- [Süni intellekt (Rüstəm Həşimov) - GOUP ](https://youtu.be/Yv78-P9x3dw) - 03.11.19
+- [Oracle Database SQL ilə tanışlıq (Şahin Kərimov) - DataSoCool](https://youtu.be/3Fdwv2JhINw) - 06.04.20
+
+- [Neyron şəbəkəsi və süni intellekt nə bacarır?! (Rəsul Həsən)](https://youtu.be/1La0Zp5IhXQ) - 24.02.20
+
+- [Süni intellekt (Rüstəm Həşimov) - GOUP](https://youtu.be/Yv78-P9x3dw) - 03.11.19
 
 - [DataTalks 2019 - QSS Analytics](https://youtu.be/wt7Mlow50qQ) - 16.06.19
 
@@ -51,7 +55,9 @@
 
 #### Məqalələr
 
-- [Maşın Öyrənməsi — Ümumi Baxış](https://medium.com/@nilyasov2018/ma%C5%9F%C4%B1n-%C3%B6yr%C9%99nm%C9%99si-%C3%BCmumi-bax%C4%B1%C5%9F-ecb6e8fc3671) - 04.11.19
+- [Maşın Öyrənməsi — Linear Regression (Nurlan İlyasov)](https://medium.com/@nilyasov2018/ma%C5%9F%C4%B1n-%C3%B6yr%C9%99nm%C9%99si-linear-regression-33425a5ba991) - 17.01.20
+
+- [Maşın Öyrənməsi — Ümumi Baxış (Nurlan İlyasov)](https://medium.com/@nilyasov2018/ma%C5%9F%C4%B1n-%C3%B6yr%C9%99nm%C9%99si-%C3%BCmumi-bax%C4%B1%C5%9F-ecb6e8fc3671) - 04.11.19
 
 ### Karyera üçün mənbələr
 - [Facebook Data Scientist Interview](https://www.interviewquery.com/company/facebook-data-scientist-interview)
