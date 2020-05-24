@@ -37,13 +37,15 @@
 
 
 #### Videolar
+- [Biznes analitikası və xarici şirkətdə işləmək (Yaşar Əhmədov)](https://youtu.be/b-h2PrdF8wc) - 27.04.20
+
 - [Sıfırdan sona Maşın Öyrənməsi layihəsi (Emil Mirzəyev)](https://youtu.be/iLQ1R20Hy0I) - 03.05.20
 
-- [Datanın Biznesin Müxtəlif Funksiyalarında Tətbiqləri - DataSoCool](https://www.facebook.com/datasocool/videos/1923925151073919/) - 11.04.20
+- [Datanın biznesin müxtəlif funksiyalarında tətbiqləri - DataSoCool](https://www.facebook.com/datasocool/videos/1923925151073919/) - 11.04.20
 
-- [Süni İntellekt (Rüstəm Həşimov) - GOUP ](https://youtu.be/Yv78-P9x3dw) - 03.11.19
+- [Süni intellekt (Rüstəm Həşimov) - GOUP ](https://youtu.be/Yv78-P9x3dw) - 03.11.19
 
-- [Data Talks 2019 - QSS Analytics](https://youtu.be/wt7Mlow50qQ) - 16.06.19
+- [DataTalks 2019 - QSS Analytics](https://youtu.be/wt7Mlow50qQ) - 16.06.19
 
 
 
