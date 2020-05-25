@@ -39,6 +39,10 @@
 #### Videolar
 - [Sıfırdan sona Maşın Öyrənməsi layihəsi (Emil Mirzəyev)](https://youtu.be/iLQ1R20Hy0I) - 03.05.20
 
+- [Preparing Risk Management Report with Power BI (Sevinc Hüseynova) - DataSoCool](https://youtu.be/KPgyX1NkUCw) - 03.05.20 
+
+- [The Art of Data Visualization (Sevinc Hüseynova) - DataSoCool](https://youtu.be/ZdtLyOcxejk) - 30.04.20
+
 - [Biznes analitikası və xarici şirkətdə işləmək (Yaşar Əhmədov)](https://youtu.be/b-h2PrdF8wc) - 27.04.20
 
 - [Datanın biznesin müxtəlif funksiyalarında tətbiqləri - DataSoCool](https://www.facebook.com/datasocool/videos/1923925151073919/) - 11.04.20
