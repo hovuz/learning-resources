@@ -37,6 +37,8 @@
 
 
 #### Videolar
+- [Qərarların qəbulunda datanın rolu (Adnan Hacızadə) - Əkinçi](https://youtu.be/jk2gsIJXA4E) - 21.08.20
+
 - [Sıfırdan sona Maşın Öyrənməsi layihəsi (Emil Mirzəyev)](https://youtu.be/iLQ1R20Hy0I) - 03.05.20
 
 - [Preparing Risk Management Report with Power BI (Sevinc Hüseynova) - DataSoCool](https://youtu.be/KPgyX1NkUCw) - 03.05.20 
