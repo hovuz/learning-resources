@@ -6,7 +6,12 @@
 
 #### Kurslar
 - [AI for Everyone (deeplearning.ai)](https://www.deeplearning.ai/ai-for-everyone/)
+- [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+- [Kaggle Courses](https://www.kaggle.com/learn/overview)
+- [AWS - Machine Learning University](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw/playlists)
+- [Introducing the Facebook Field Guide to Machine Learning video series](https://research.fb.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/)
 - [Practical Deep Learning for Coders, v3 (fast.ai)](https://course.fast.ai/index.html)
+- [The Machine Learning Summer School (MLSS) - London](https://sites.google.com/view/mlss-2019/lectures-and-tutorials)
 
 #### Kitablar
 - [Machine Learning Yearning (deeplearning.ai) by Andrew Ng](https://www.deeplearning.ai/machine-learning-yearning/)
@@ -16,10 +21,16 @@
 
 #### Məqalələr
 - [How to Choose Your First AI Project (Andrew Ng)](https://hbr.org/2019/02/how-to-choose-your-first-ai-project)
+- [The Definitive Data Scientist Environment Setup](https://davidadrian.cc/definitive-data-scientist-setup/)
 
 #### Vebsaytlar
-- Data Science ilə maraqlananlar üçün "HackerNews" - [DataTau - Data Science Newsboard](https://datatau.net/)
-- Elmi məqalələr kodu ilə birlikdə - [Paper with Code](https://paperswithcode.com/)
+- [DataTau - Data Science Newsboard](https://datatau.net/)
+- [Paper with Code](https://paperswithcode.com/)
+- [Neural Network - 3D Visualization Framework](https://tensorspace.org/)
+- [Google AI Hub](https://aihub.cloud.google.com/)
+- [MetaFlow - A framework for real-life data science](https://metaflow.org/)
+- [Made With ML - Your one-stop platform to explore, learn and build all things machine learning](https://madewithml.com/)
+- [LearnDataSci - 100+ Free Data Science Books](https://www.learndatasci.com/free-data-science-books/)
 
 ### Azərbaycanca mənbələr
 
