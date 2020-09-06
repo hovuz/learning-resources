@@ -17,6 +17,7 @@
 - [Machine Learning Yearning (deeplearning.ai) by Andrew Ng](https://www.deeplearning.ai/machine-learning-yearning/)
 - [Python Data Science Handbook (An MIT Press book) by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Artificial Intelligence: A Modern Approach (Third edition) by Stuart Russell and Peter Norvig](http://aima.cs.berkeley.edu/)
+- [Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD](https://github.com/fastai/fastbook)
 - [Deep Learning (An MIT Press book) by Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
 
 #### Məqalələr
