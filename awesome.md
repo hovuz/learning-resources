@@ -84,6 +84,7 @@
 ### Digər faydalı repolar
 - [Career Resources for Data Science, Machine Learning, Big Data and Business Analytics Career Repository
 ](https://github.com/firmai/data-science-career)
+- [120 Data Science Interview Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)
 
 ### Öyrənməyi öyrənmək üçün faydalı məblərə
 - [Academic Listening and Note-Taking (Coursera)](https://www.coursera.org/learn/note-taking)
