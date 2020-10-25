@@ -46,7 +46,7 @@
 
 
 #### Bloqlar
-- [Data Experts - Turqut Abdullayev](http://dataexperts.tech/)
+- [Data Experts - Turqut Abdullayev](https://henry090.github.io/blog/)
 
 
 #### Videolar
