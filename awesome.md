@@ -8,9 +8,11 @@
 - [AI for Everyone (deeplearning.ai)](https://www.deeplearning.ai/ai-for-everyone/)
 - [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 - [Kaggle Courses](https://www.kaggle.com/learn/overview)
+- [Google Tech Dev Guide - Machine Learning Crash Course](https://techdevguide.withgoogle.com/paths/machine-learning/)
 - [AWS - Machine Learning University](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw/playlists)
 - [Introducing the Facebook Field Guide to Machine Learning video series](https://research.fb.com/blog/2018/05/the-facebook-field-guide-to-machine-learning-video-series/)
 - [Practical Deep Learning for Coders, v3 (fast.ai)](https://course.fast.ai/index.html)
+- [Yann LeCun’s Deep Learning Course at CDS (NYU)](https://cds.nyu.edu/deep-learning/)
 - [The Machine Learning Summer School (MLSS) - London](https://sites.google.com/view/mlss-2019/lectures-and-tutorials)
 
 #### Kitablar
