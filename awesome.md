@@ -36,6 +36,9 @@
 - [Made With ML - Your one-stop platform to explore, learn and build all things machine learning](https://madewithml.com/)
 - [LearnDataSci - 100+ Free Data Science Books](https://www.learndatasci.com/free-data-science-books/)
 
+#### TED Talks
+- [The wonderful and terrifying implications of computers that can learn | Jeremy Howard](https://youtu.be/t4kyRyKyOpo)
+
 ### Azərbaycanca mənbələr
 
 #### Kitablar
