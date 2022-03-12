@@ -4,6 +4,7 @@
 - [**Think Bayes - Bayesian Statistics Made Simple** *by Allen B. Downey*](https://github.com/rlabbe/ThinkBayes/tree/master/notebooks)
 
 ### Maşın Öyrənməsi
+- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks)
 
 ### Təbii Dilin Emalı
 
