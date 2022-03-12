@@ -6,7 +6,8 @@
 
 #### Kurslar
 - [AI for Everyone (deeplearning.ai)](https://www.deeplearning.ai/ai-for-everyone/)
-- [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+- [Machine Learning for Beginners (Microsoft)](https://microsoft.github.io/ML-For-Beginners)
+- [Machine Learning Crash Course (Google)](https://developers.google.com/machine-learning/crash-course)
 - [Kaggle Courses](https://www.kaggle.com/learn/overview)
 - [Google Tech Dev Guide - Machine Learning Crash Course](https://techdevguide.withgoogle.com/paths/machine-learning/)
 - [AWS - Machine Learning University](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw/playlists)
